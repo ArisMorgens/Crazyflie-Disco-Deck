@@ -23,6 +23,6 @@ A repository for transforming your Crazyflie into a party drone.
 
  ## Process
  - Print the parts found in [mechanics](/mechanics/)
- - Assmeble the Disco deck and mount it underneath the Crazyflie
+ - Assemble the Disco deck and mount it underneath the Crazyflie
  - Connect the motor as described in [electronics](/electronics/)
  - Modify the [firmware](/firmware/) and flash it to the Crazyflie
